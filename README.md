@@ -1,4 +1,4 @@
-# 네이버웹툰 캐릭터 얼굴 생성하기
+# 네이버웹툰 캐릭터 얼굴 생성하기 (Editing)
 
 ## 데이터 확보
 
@@ -21,10 +21,8 @@
 
 ### pytorch version DCGAN 사용
 #### Training process
-
 ![yumisepo_training](https://user-images.githubusercontent.com/22866802/97538280-7bd96180-1a03-11eb-8115-b8173f6c2c99.gif)
 
 #### Training loss
 
 ![yumisepo_loss](https://user-images.githubusercontent.com/22866802/97539232-f5258400-1a04-11eb-9cf2-a65a03851f29.png)
-
