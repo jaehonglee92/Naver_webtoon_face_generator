@@ -20,5 +20,6 @@
 ## Training
 ------------
 * pytorch version DCGAN 사용
-![yumisepo_training](https://user-images.githubusercontent.com/22866802/97538280-7bd96180-1a03-11eb-8115-b8173f6c2c99.gif)
+
+![yumisepo_training](https://user-images.githubusercontent.com/22866802/97538280-7bd96180-1a03-11eb-8115-b8173f6c2c99.gif){: .align-left}
 
