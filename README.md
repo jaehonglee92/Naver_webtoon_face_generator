@@ -5,4 +5,4 @@
 ![yumisepo](https://user-images.githubusercontent.com/22866802/97528285-af5ec080-19f0-11eb-9717-327cc1fb3c39.png)
 
 * 웹툰 이미지 크롤링
-  * [allieus](https://gist.github.com/allieus/13c1a80ef5648c2b9b112e1c58f9727b, "google link")님이 만들어주신 웹툰 이미지 크롤러 사용
+  * [allieus](https://gist.github.com/allieus/13c1a80ef5648c2b9b112e1c58f9727b) 님이 만들어주신 웹툰 이미지 크롤러 사용
