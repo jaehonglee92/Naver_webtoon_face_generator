@@ -12,5 +12,7 @@
   
 * 얼굴 추출
   * [ageitgey](https://github.com/ageitgey/face_recognition)의 face_recognition 참조
-  
+  * 웹툰 캐릭터 얼굴 추출 샘플
+    
 ![yumisepo_sample](https://user-images.githubusercontent.com/22866802/97533007-cdc9b980-19fa-11eb-86ce-439f24c4471e.png)
+
